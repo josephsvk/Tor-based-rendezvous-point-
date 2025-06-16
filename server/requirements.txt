@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+aiortc
+stem 
+dotenv
+pynacl
+pytest
+httpx
+requests
+starlette
+requests[socks]
+websockets
+aiohttp
+aiohttp-socks
